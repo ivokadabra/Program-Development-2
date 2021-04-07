@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590452111 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 6/pq.cpp
+	"pq.h"
+	<iostream>
+
+1590453883 /home/ivokadabra/Schreibtisch/PE2/Aufgabe 6/pq.h
+
+1590454682 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 6/main.cpp
+	<iostream>
+	"pq.h"
+	<bits/stdc++.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589978112 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 5/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"list.h"
+
+1589927358 /home/ivokadabra/Schreibtisch/PE2/Aufgabe 5/list.cpp
+	<iostream>
+	"list.h"
+
+1589970957 /home/ivokadabra/Schreibtisch/PE2/Aufgabe 5/list.h
+
+1589978112 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 5/list.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"list.h"
+

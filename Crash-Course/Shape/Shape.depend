@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1600594776 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Shape/main.cpp
+	<iostream>
+	"picture.hpp"
+	<vector>
+
+1600594839 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Shape/picture.hpp
+	<iostream>
+	<vector>
+	"shape.hpp"
+	<iterator>
+
+1600594776 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Shape/shape.hpp
+	<iostream>
+	"vec2d.hpp"
+	<vector>
+	<cmath>
+
+1600594776 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Shape/vec2d.hpp
+	<iostream>
+	<string>
+
+1600594776 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Shape/shape.cpp
+	"shape.hpp"
+	<iostream>
+	<vector>
+	<cmath>
+
+1600594776 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Shape/vec2d.cpp
+	"vec2d.hpp"
+	<math.h>
+

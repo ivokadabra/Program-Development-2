@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1591615488 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 10/konto.cpp
+	<iostream>
+	"konto.hpp"
+	<string>
+
+1591615438 /home/ivokadabra/Schreibtisch/PE2/Aufgabe 10/konto.hpp
+
+1591615454 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 10/main.cpp
+	<iostream>
+	"konto.hpp"
+	<string>
+
+1598967869 source:/home/ivokadabra/Schreibtisch/2.Semester/PE2/Aufgabe 10/konto.cpp
+	<iostream>
+	"konto.hpp"
+	<string>
+
+1598967055 /home/ivokadabra/Schreibtisch/2.Semester/PE2/Aufgabe 10/konto.hpp
+
+1598968067 source:/home/ivokadabra/Schreibtisch/2.Semester/PE2/Aufgabe 10/main.cpp
+	<iostream>
+	"konto.hpp"
+	<string>
+
+1598970426 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Aufgabe 10/konto.cpp
+	<iostream>
+	"konto.hpp"
+	<string>
+
+1598967055 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Aufgabe 10/konto.hpp
+
+1598970495 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Aufgabe 10/main.cpp
+	<iostream>
+	"konto.hpp"
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600006046 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Aufgabe 15(Dekorator Pattern)/dekorator.cpp
+	"dekorator.hpp"
+	<iostream>
+
+1600006033 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Aufgabe 15(Dekorator Pattern)/dekorator.hpp
+	<iostream>
+
+1600006046 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Aufgabe 15(Dekorator Pattern)/main.cpp
+	<iostream>
+	"dekorator.hpp"
+

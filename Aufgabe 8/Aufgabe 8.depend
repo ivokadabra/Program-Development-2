@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1591186564 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 8/main.cpp
+	<iostream>
+	<string.h>
+	"list.hpp"
+
+1591186259 source:/home/ivokadabra/Schreibtisch/PE2/Aufgabe 8/list.cpp
+	<iostream>
+	<string.h>
+	"list.hpp"
+
+1591187078 /home/ivokadabra/Schreibtisch/PE2/Aufgabe 8/list.hpp
+
+1591186564 source:/home/ivokadabra/Schreibtisch/2.Semester/PE2/Aufgabe 8/main.cpp
+	<iostream>
+	<string.h>
+	"list.hpp"
+
+1591187078 /home/ivokadabra/Schreibtisch/2.Semester/PE2/Aufgabe 8/list.hpp
+
+1591187945 source:/home/ivokadabra/Schreibtisch/2.Semester/PE2/Aufgabe 8/list.cpp
+	<iostream>
+	<string.h>
+	"list.hpp"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599922764 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Polygon/polygon.cpp
+	"polygon.hpp"
+	<iostream>
+
+1599922818 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Polygon/polygon.hpp
+	<iostream>
+	"vec2d.hpp"
+
+1599922853 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Polygon/vec2d.hpp
+	<iostream>
+	<string>
+
+1599922818 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Polygon/vec2d.cpp
+	"vec2d.hpp"
+	<math.h>
+
+1599922764 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Polygon/main.cpp
+	<iostream>
+	"polygon.hpp"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589980410 source:/home/ivokadabra/Schreibtisch/PE2/AUU5/main.cpp
+	<iostream>
+	"list.h"
+
+1589980196 /home/ivokadabra/Schreibtisch/PE2/AUU5/list.h
+
+1589980392 source:/home/ivokadabra/Schreibtisch/PE2/AUU5/list.cpp
+	<iostream>
+	"list.h"
+

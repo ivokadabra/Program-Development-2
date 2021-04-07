@@ -1,0 +1,13 @@
+typedef struct heap heap_t;
+static heap_t *createHeap();
+static void insert(heap_t *h,int value);
+static void toScreen(heap_t *h);
+static void sortHeap(heap_t *h);
+static void swap(int *x,int *y);
+static int checkSize( heap_t *h);
+static void increase(heap_t *h);
+static void destroyHeap(heap_t *h);
+static int* toString(heap_t *h);
+static char test01(void);
+static char test02(heap_t *h);
+static char test03(heap_t *h);

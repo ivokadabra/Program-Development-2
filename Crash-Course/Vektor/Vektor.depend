@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599504153 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Vektor/main.cpp
+	<iostream>
+	"vec2d.hpp"
+
+1599504324 /home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Vektor/vec2d.hpp
+	<iostream>
+	<string>
+
+1599503589 source:/home/ivokadabra/Schreibtisch/2.Semester/klausur PE2/Vektor/vec2d.cpp
+	"vec2d.hpp"
+	<math.h>
+
